@@ -4,17 +4,22 @@ This is the list of open-source projects which is better to avoid.
 
 ## How to determine if an open-source project is awful?
 
-- [ ] It violates its license.
-- [ ] It has malicious code.
-- [ ] Its code smells awful.
-- [ ] It has changed the license once.
-- [ ] It has additional requirements apart from the included license.
-- [ ] It has changed git history for some reasons.
-- [ ] It has some features removed deliberately.
+- Bad licensing.
+  - [ ] It violates its own license.
+  - [ ] It has additional requirements apart from the included license.
+  - [ ] It has changed the license in the past.
+
+- Dangerous.
+  - [ ] It has malicious code.
+
+- Perverts the idea of opensource.
+  - [ ] It has changed git history for some reasons.
+  - [ ] It has some features removed deliberately.
+  - [ ] It has non-opensource dependencies.
 
 ## Content
 
-### Additional requirements
+### Bad licensing
 
 #### [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
 
@@ -31,7 +36,7 @@ Related commits:
 
 ---
 
-### Malicious code
+### Dangerous
 
 #### [node-ipc](https://github.com/RIAEvangelist/node-ipc)
 
@@ -60,7 +65,7 @@ Related commits:
 
 ---
 
-### Deliberately removed features
+### Perverts the idea of opensource
 
 #### [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
 
