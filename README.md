@@ -19,8 +19,6 @@ This is the list of open-source projects which is better to avoid.
 
 Reason: one of the maintainers has added additional terms of use for users from Russia and Belarus.
 
-Critique: today you impose your own terms of use on users from Russia. What will be tomorrow?
-
 <details>
 <summary>Content of additional terms</summary>
 <h2>Additional terms of use for users from Russia and Belarus</h2>
